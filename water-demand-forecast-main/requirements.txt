@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+requests
+python-dotenv
+streamlit
+joblib
+matplotlib
+numpy
+python-dateutil

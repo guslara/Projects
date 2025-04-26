@@ -1,0 +1,56 @@
+ID Citizenship,Citizenship,ID Year,Year,Citizenship Status,Geography,ID Geography,Slug Geography,Citizenship %
+0,"Citizen",2023,"2023",310412367,"United States","01000US","united-states",0.9338868929924389
+0,"Citizen",2023,"2023",26673172,"Texas","04000US48","texas",0.8998941746389372
+0,"Citizen",2023,"2023",773631,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8930547458947794
+0,"Citizen",2023,"2023",776102,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8924754429017279
+0,"Citizen",2023,"2023",167893,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9467347847907116
+0,"Citizen",2022,"2022",309482689,"United States","01000US","united-states",0.9347174233308304
+0,"Citizen",2022,"2022",26293082,"Texas","04000US48","texas",0.899113446062355
+0,"Citizen",2022,"2022",769107,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8903432611896758
+0,"Citizen",2022,"2022",771334,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8894934158708706
+0,"Citizen",2022,"2022",168879,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9529073212018621
+0,"Citizen",2021,"2021",308022042,"United States","01000US","united-states",0.9341772466775171
+0,"Citizen",2021,"2021",25909658,"Texas","04000US48","texas",0.8976902654686356
+0,"Citizen",2021,"2021",762683,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8863408426643115
+0,"Citizen",2021,"2021",764790,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8853713850431867
+0,"Citizen",2021,"2021",243345,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9471699141360278
+0,"Citizen",2020,"2020",304900364,"United States","01000US","united-states",0.9336467222449453
+0,"Citizen",2020,"2020",25700074,"Texas","04000US48","texas",0.897491786576928
+0,"Citizen",2020,"2020",738003,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8818135652963562
+0,"Citizen",2020,"2020",741248,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8807583632168174
+0,"Citizen",2020,"2020",240020,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9459363595519789
+0,"Citizen",2019,"2019",302533815,"United States","01000US","united-states",0.9317396658021654
+0,"Citizen",2019,"2019",25253945,"Texas","04000US48","texas",0.8936015596979794
+0,"Citizen",2019,"2019",730651,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8739196375388428
+0,"Citizen",2019,"2019",733612,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.872851963825304
+0,"Citizen",2019,"2019",238737,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9409281702630801
+0,"Citizen",2018,"2018",300613540,"United States","01000US","united-states",0.9309715675322093
+0,"Citizen",2018,"2018",24886847,"Texas","04000US48","texas",0.8924752722726164
+0,"Citizen",2018,"2018",724989,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8654993589238517
+0,"Citizen",2018,"2018",727808,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8646347142626332
+0,"Citizen",2018,"2018",238830,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9378718324294819
+0,"Citizen",2017,"2017",298666642,"United States","01000US","united-states",0.9304129023998103
+0,"Citizen",2017,"2017",24464434,"Texas","04000US48","texas",0.8922239308127335
+0,"Citizen",2017,"2017",715523,"El Paso County, TX","05000US48141","el-paso-county-tx",0.857093402808972
+0,"Citizen",2017,"2017",718084,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8563635995024609
+0,"Citizen",2017,"2017",237593,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9329775662547465
+0,"Citizen",2016,"2016",296343215,"United States","01000US","united-states",0.9302640784322456
+0,"Citizen",2016,"2016",24051894,"Texas","04000US48","texas",0.8922505516771784
+0,"Citizen",2016,"2016",712667,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8549350281672569
+0,"Citizen",2016,"2016",715106,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.854293472612305
+0,"Citizen",2016,"2016",239894,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9348547022536057
+0,"Citizen",2015,"2015",294245828,"United States","01000US","united-states",0.9296425397769669
+0,"Citizen",2015,"2015",23662751,"Texas","04000US48","texas",0.8916347703764785
+0,"Citizen",2015,"2015",708940,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8530192095969775
+0,"Citizen",2015,"2015",711319,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8524660694490218
+0,"Citizen",2015,"2015",240705,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9324013387254219
+0,"Citizen",2014,"2014",291850247,"United States","01000US","united-states",0.9291425181610995
+0,"Citizen",2014,"2014",23249757,"Texas","04000US48","texas",0.8910672847914917
+0,"Citizen",2014,"2014",700606,"El Paso County, TX","05000US48141","el-paso-county-tx",0.8503924200897723
+0,"Citizen",2014,"2014",703058,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8499188835670921
+0,"Citizen",2014,"2014",241412,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.930364843668708
+0,"Citizen",2013,"2013",289401591,"United States","01000US","united-states",0.9289489471660591
+0,"Citizen",2013,"2013",22848144,"Texas","04000US48","texas",0.8911350523275277
+0,"Citizen",2013,"2013",691989,"El Paso County, TX","05000US48141","el-paso-county-tx",0.851139277873102
+0,"Citizen",2013,"2013",694575,"El Paso, TX","31000US21340","el-paso-tx-31000US21340",0.8507684261197512
+0,"Citizen",2013,"2013",241747,"Southwest New Mexico PUMA, NM","79500US3500900","southwest-new-mexico-puma-nm",0.9312969747400619
